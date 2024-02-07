@@ -1,0 +1,25 @@
+
+.tree-view-container{
+    background: rgb(0, 71, 110);
+    min-height: 100vh;
+    width: 350px;
+    position: fixed;
+    left: 0;
+    top: 0;
+
+
+}
+
+.menu-item{
+    display: flex;   
+    align-items: center;
+    gap: 20px;
+    cursor: pointer;
+    color: azure;
+}
+
+.menu-list-container{
+    list-style: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
